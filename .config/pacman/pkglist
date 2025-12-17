@@ -34,6 +34,7 @@ linux-firmware
 linux-headers
 linux-lts
 linux-lts-headers
+ly
 mangohud
 nano
 nvidia-open-dkms
@@ -46,7 +47,6 @@ pipewire-jack
 pipewire-pulse
 qt5-wayland
 rofi
-sddm
 steam
 swaync
 timeshift
