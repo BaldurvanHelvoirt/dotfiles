@@ -6,6 +6,7 @@ blueman
 bluez
 bluez-utils
 cliphist
+cpio
 efibootmgr
 egl-wayland
 firefox
@@ -20,7 +21,6 @@ hyprland
 hyprland-protocols
 hyprlang
 hyprlock
-hyprpaper
 hyprpicker
 hyprpolkitagent
 hyprshot
@@ -36,6 +36,7 @@ linux-lts
 linux-lts-headers
 ly
 mangohud
+meson
 nano
 nvidia-open-dkms
 openssh
@@ -46,6 +47,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 qt5-wayland
+qt6ct
 rofi
 steam
 swaync
