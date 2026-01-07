@@ -1,0 +1,55 @@
+// Left screen
+    {
+        // General Settings
+
+        // Position TOP
+        "layer": "top",
+        "margin-top": 5,
+        "margin-bottom": 0,
+    	"font": "BitstromWera Nerd Font",
+
+        "layer": "top",
+        "margin-left": 0,
+        "margin-right": 0,
+        "spacing": 0,
+
+        // Load Modules
+        "include": ["~/.config/waybar/general-config"],
+
+        // Modules Left
+        "modules-left": [
+            // START TASK TOOGLE
+            "wlr/taskbar",
+            // END TASK TOOGLE
+            "hyprland/window"
+        ],
+
+        // Modules Center
+        "modules-center": [
+            "hyprland/workspaces"
+        ],
+
+        // Modules Right
+        "modules-right": [
+            //"custom/updates",
+            "pulseaudio",
+            // START BT TOOGLE
+            "bluetooth",
+            // END BT TOOGLE
+            "battery",
+            // START NETWORK TOOGLE
+            "network",
+            // END NETWORK TOOGLE
+            "group/hardware",
+            //"custom/cliphist",
+            // START IDLE TOOGLE
+            //"idle_inhibitor",
+            // END IDLE TOOGLE
+            // START TRAY TOOGLE
+            "tray",
+            // END TRAY TOOGLE
+            "custom/notification",
+            "clock",
+	    "group/quicklinks-right"
+        ]
+    }
