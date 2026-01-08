@@ -110,7 +110,7 @@
         "orientation": "horizontal",
         "modules": [
             "cpu",
-			"temperature",
+            "temperature",
             "memory",
             "custom/gpu"
         ]
