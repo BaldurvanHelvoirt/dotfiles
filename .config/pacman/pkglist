@@ -15,6 +15,7 @@ cliphist
 cpio
 efibootmgr
 egl-wayland
+ex-vi-compat
 firefox
 gamemode
 git
@@ -64,7 +65,6 @@ rofi
 steam
 swaync
 timeshift
-vi
 waybar
 wget
 wine
