@@ -21,6 +21,7 @@ gamemode
 git
 grub
 gst-plugin-pipewire
+htop
 hyprcursor
 hyprgraphics
 hypridle
@@ -36,6 +37,7 @@ hyprwayland-scanner
 kitty
 lib32-nvidia-utils
 libpulse
+libreoffice-fresh
 linux
 linux-firmware
 linux-headers
