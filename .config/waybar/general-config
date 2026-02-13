@@ -35,11 +35,11 @@
         "on-click": "wlogout -b 6",
         "tooltip": false
     },
-
-	"group/quicklinks-right": {
-		"orientation": "horizontal",
-		"modules": ["custom/exit"]
-	},
+        
+    "group/quicklinks-right": {
+        "orientation": "horizontal",
+        "modules": ["custom/exit"]
+    },
 
     // System tray
     "tray": {
@@ -69,14 +69,14 @@
         "on-click": "kitty -e htop"
     },
 
-	"temperature": {
-		"hwmon-path-abs": "/sys/devices/pci0000:00/0000:00:18.3/hwmon",
-		"input-filename": "temp1_input",
-		//"hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
-		"critical-threshold": 80,
-		"format-critical": "󰈸{temperatureC} ",
-		"format": "{temperatureC} ",
-	},
+    "temperature": {
+	"hwmon-path-abs": "/sys/devices/pci0000:00/0000:00:18.3/hwmon",
+	"input-filename": "temp1_input",
+	//"hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+	"critical-threshold": 80,
+	"format-critical": "󰈸{temperatureC} ",
+	"format": "{temperatureC} ",
+    },
 
     // Memory
     "memory": {
