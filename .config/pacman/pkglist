@@ -65,9 +65,11 @@ pipewire-pulse
 qt5-wayland
 qt6ct
 rofi
+rust
 steam
 swaync
 timeshift
+unzip
 waybar
 wget
 wine
