@@ -63,6 +63,7 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+protontricks
 qt5-wayland
 qt6ct
 rofi
